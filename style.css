@@ -118,6 +118,10 @@ a:visited {
   color: #fff;
 }
 
+.popup--btn:first-child {
+  margin-right: 1.2rem;
+}
+
 .popup--btn:hover {
   background-color: var(--color-brand--2);
   color: var(--color-light--2);
